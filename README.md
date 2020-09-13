@@ -1,7 +1,6 @@
 # MLDAL-BTCS15F7100-
 MY LAB PROGRAMS </br>
 COURSE CODE:BTCS15F7100</br>
-FINDER'S ALGORITHM</br>
 7TH SEM<br/>
 
 An update on program 3: since the code shared in the lab wasn't running, I have tried implementing on my own from what I understood<br/>
