@@ -5,6 +5,7 @@ COURSE CODE:BTCS15F7100</br>
 
 Program 1:Finder's Algorithm<br/>
 Program 2:Candidate Elemintion<br/>
-An update on program 3: since the code shared in the lab wasn't running, I have tried implementing on my own from what I understood<br/>
+Program 3: since the code shared in the lab wasn't running, I have tried implementing on my own from what I understood<br/>
 Reference:https://github.com/profthyagu/Python-Decision-Tree-Using-ID3/blob/master/3.Decision%20Tree%20Using%20ID3.ipynb<br/>
+Program 4:Back propogation Algorithm<br/>
 
